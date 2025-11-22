@@ -1,0 +1,4 @@
+﻿.user-profile .user-card { border:1px solid #ddd; padding:12px; border-radius:8px; margin:8px 0; }
+.user-actions, .product-actions { display:flex; gap:12px; margin-top:12px; }
+.action-link, .back-link { text-decoration:none; padding:6px 10px; border:1px solid #ddd; border-radius:6px; }
+.user-not-found, .product-not-found { background:#fffbe6; padding:12px; border-radius:8px; margin-top:12px; }

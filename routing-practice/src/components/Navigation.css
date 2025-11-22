@@ -1,0 +1,4 @@
+﻿.navigation { display:flex; align-items:center; justify-content:space-between; padding:12px 16px; background:#f6f6f6; border-radius:8px; margin-bottom:12px; }
+.nav-links { display:flex; gap:12px; flex-wrap:wrap; }
+.nav-link { text-decoration:none; padding:6px 10px; border:1px solid #ddd; border-radius:6px; }
+.nav-link:hover { background:#eee; }
